@@ -1,0 +1,13 @@
+{
+  "name": "node_study",
+  "version": "1.0.0",
+  "description": "\"# node_study\"",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch ./app.js"
+  },
+  "keywords": [],
+  "author": "GabrielLanzarini",
+  "license": "MIT"
+}
